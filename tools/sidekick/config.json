@@ -2,7 +2,7 @@
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
-}
+
 "plugins": [
     {
       "id": "library",
@@ -12,4 +12,5 @@
       "includePaths": ["**.docx**"]
     }
   ]
+}
 
