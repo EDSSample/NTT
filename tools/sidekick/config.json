@@ -10,6 +10,7 @@
       "environments": ["edit"],
       "url": "/tools/sidekick/library.html",
       "blocksPath": "/tools/sidekick/blocks",
+      "libraryUrl": "https://docs.google.com/spreadsheets/d/1c4Qy-aDJicbPVzpYEYVqKmgsakP2ZLYECD6HwyJ-xKw/edit?gid=0",
       "includePaths": ["**.docx**"]
     }
   ]
