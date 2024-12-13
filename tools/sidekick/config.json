@@ -8,7 +8,7 @@
       "id": "library",
       "title": "Library",
       "environments": ["edit","live","preview","local","prod"],
-      "url": "/tools/sidekick/library1.html",
+      "url": "/tools/sidekick/library.html",
       "blocksPath": "/tools/sidekick/blocks",
       "libraryUrl": "https://docs.google.com/spreadsheets/d/1_5P5cBWgeu6S96pznaAd9ge10NYsk9kjk6Rm-tsK06Q/edit?usp=sharing",
       
