@@ -1,14 +1,13 @@
 {
   "project": "NTT",
-  "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-
-"plugins": [
+  "plugins": [
     {
       "id": "library",
       "title": "Library",
-      "environments": ["edit"],
+      "environments": ["edit","dev","preview","live","prod","local"],
       "url": "/tools/sidekick/library.html",
+      "passConfig": true,
+      "passReferrer": true,
       "blocksPath": "/tools/sidekick/blocks",
     "libraryUrl": "https://docs.google.com/spreadsheets/d/1c4Qy-aDJicbPVzpYEYVqKmgsakP2ZLYECD6HwyJ-xKw/edit?usp=sharing",
       
