@@ -2,7 +2,7 @@ footer {
    background-color: #3f3f3f;
     font-size: var(--body-font-size-xs);
     color: #f8f8f8;
-    link-color: #f8f8f8;
+    --link-color: #f8f8f8;
 }
 
 footer .footer > div {
