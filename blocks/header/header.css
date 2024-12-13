@@ -1,9 +1,13 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
-  width: 100%;
-  z-index: 2;
-  position: fixed;
+  padding: var(--header-padding);
+    background-color: rgba(255, 163, 0, 0.9);
+    display: grid;
+    grid-template-columns: 10fr auto;
+    grid-gap: 3rem;
+    justify-items: end;
+    align-items: center;
+    position: relative;
 }
 
 header nav {
