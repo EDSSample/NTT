@@ -1,0 +1,24 @@
+{
+  "blocks": [
+    {
+      "name": "header",
+      "path": "/tools/sidekick/blocks/header"
+    },
+    {
+      "name": "footer",
+      "path": "/tools/sidekick/blocks/footer"
+    },
+    {
+      "name": "hero",
+      "path": "/tools/sidekick/blocks/hero"
+    },
+    {
+      "name": "cards",
+      "path": "/tools/sidekick/blocks/cards"
+    },
+    {
+      "name": "text-block",
+      "path": "/tools/sidekick/blocks/text-block"
+    }
+  ]
+}
