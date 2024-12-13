@@ -1,6 +1,7 @@
 footer {
    background-color: #3f3f3f;
-    font-size: var(--body-font-size-xs);
+    font-family: 'raleway-regular', 'oswald-medium', 'helveticaneue', sans-serif;
+    font-size: 1.2rem;
     color: #f8f8f8;
     --link-color: #f8f8f8;
 }
