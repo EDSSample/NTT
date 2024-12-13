@@ -9,10 +9,7 @@
       "title": "Library",
       "environments": ["edit"],
       "url": "/tools/sidekick/library.html",
-      "blocksPath": "/tools/sidekick/blocks",
-    "libraryUrl": "https://docs.google.com/spreadsheets/d/1c4Qy-aDJicbPVzpYEYVqKmgsakP2ZLYECD6HwyJ-xKw/edit?usp=sharing",
       
-      "adminSpreadsheetUrl":" https://docs.google.com/spreadsheets/d/1gfEsjomHKz1JPdJs_3qaEWVmw-bkpXSinRVDtpLa33k/edit?gid=0#gid=0",
       "includePaths": ["**.docx**"]
     }
   ]
