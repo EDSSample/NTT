@@ -1,6 +1,8 @@
 footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+   background-color: #161515;
+    font-size: var(--body-font-size-xs);
+    color: #f8f8f8;
+    link-color: #f8f8f8;
 }
 
 footer .footer > div {
